@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "李嘉鹏的技术简历",
   description: "7年前端开发工程师 · 专注于 Vue 生态 · 擅长组件封装与开发效率优化",
-  base: '/resume.github.io/',
+  base: '/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
