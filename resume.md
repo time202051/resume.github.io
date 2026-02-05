@@ -7,112 +7,75 @@
 - **经验**: 7年
 - **邮箱**: 809949003@qq.com
 - **电话**: 17312252101
-- **位置**: 南京
+- **户籍**: 马鞍山
+- **位置**: 南京-南京南站附近（租房）
 - **学历**: 合肥学院计科系信息安全与管理专业
-
----
-
-## 核心亮点
-
-### 🚀 企业级开发框架 - ol-base-components
-
-**文档**: [https://time202051.github.io/baseCom.github.io/](https://time202051.github.io/baseCom.github.io/)
-
-无需联调的 CRUD 页面自动生成框架，通过交互式命令行方式自动生成完整页面，无需手动联调，几秒完成页面开发。
-
-**核心特性**:
-- **npx 脚本一键生成**: 自动生成 API 接口和模块文件
-- **VSCode 插件生成代码**: 直接生成联调好的 Vue 页面，包含完整的增删改查功能
-- **多级表头 & Swagger 支持**: 支持多级表头、动态列显示隐藏、自动从 Swagger 生成表头字段
-- **丰富的组件库**: 表格、表单、弹窗、搜索框等常用组件，API 友好
-- **灵活的搜索框**: 支持文本、下拉、日期、树形选择等多种输入类型
-
-**技术价值**:
-- 极大提升开发效率，几秒完成页面开发
-- 减少重复代码，统一开发规范
-- 开箱即用，降低团队学习成本
-
----
-
-### 🛠️ VSCode 插件开发
-
-开发了 3 个 VSCode 插件，提升开发效率：
-
-#### 1. auto-columns
-自动生成表格列配置，根据数据结构智能生成列定义，减少手动编写列配置的工作量。
-
-#### 2. copy encryption cracking
-加密破解工具插件，快速解密和加密数据，提升开发调试效率。
-
-#### 3. vue-page-generator
-Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结构，加速项目开发。
-
----
-
-### 🤖 脚本 + AI 全流程开发
-
-从页面开发、自测到 bug 单排查，全程使用 AI 和脚本自动化，大幅提升开发效率：
-
-- **自动化脚本**: 编写脚本自动生成代码、处理数据、执行测试
-- **AI 辅助开发**: 熟练使用 ChatGPT、FittenCode、DeepSeek 等 AI 工具
-- **智能代码生成**: 结合 AI 和脚本，实现代码的智能生成和优化
-- **快速原型验证**: 通过 AI 快速生成原型，验证业务逻辑
-- **自动化测试**: 使用脚本进行自测，提前发现问题
-- **Bug 排查**: 通过 AI 和脚本快速定位和修复 bug
----
-
-### 💎 扎实的 Vue2/3 技术功底
-
-深入掌握 Vue 生态系统，具备扎实的理论基础和丰富的实战经验：
-
-- **Vue2/3 深入理解**: 响应式原理、虚拟 DOM、组件化开发
-- **源码研究**: 持续学习 Vue 源码、VueUse 源码、Element Plus 源码
-- **组件封装**: 深入 Element UI/Plus 源码，二次封装多个业务组件
----
 
 ## 技术栈
 
-### 前端框架
-- **Vue2/3**: 掌握响应式原理、虚拟 DOM、组件化开发
-- **Vuex/Pinia**: 熟练使用状态管理，理解核心原理
-- **Vue Router**: 掌握路由守卫、动态路由、嵌套路由
-- **VueUse**: 熟练使用工具库提升开发效率
-- **React**: 有实际项目经验
+**核心技术**: Vue2/3、uniapp、React、JavaScript/TypeScript、git、Vuex/Pinia、Vue Router、Axios、VueUse、Echarts等
 
-### TypeScript
-- 熟练使用 TypeScript 进行类型安全开发
-- 掌握泛型、类型推断、类型守卫等高级特性
+**3D 可视化**: Cesium、Mars3D
 
-### 组件库
-- **Element UI/Plus**: 深入源码研究，二次封装多个业务组件
-- **View Design**: 熟练使用，有实际项目经验
-- **Vant**: 熟练使用移动端组件库
+**编辑器**: VS Code、Cursor、Trae、codeBuddy、Kiro、Qoder等
 
-### 3D 可视化
-- **Cesium**: 实现海量实体渲染、人员定位、轨迹追踪、历史轨迹、楼层分层
-- **Mars3D**: 实现电子沙盘、海量实体绘制、自定义弹框、换肤功能
+## 核心亮点
 
-### 工程化
-- **构建工具**: Vite、Webpack
-- **包管理**: npm、yarn
-- **代码规范**: ESLint、Prettier
-- **Git**: 熟练使用 Git 进行版本控制
+### 企业级组件库 - ol-base-components
 
-### 开发工具
-- **VS Code**: 熟练使用，掌握常用插件配置，开发多个 VSCode 插件
-- **WebStorm**: 熟练使用 JetBrains 系列 IDE
-- **AI 工具**: ChatGPT、FittenCode、DeepSeek
+**文档**: [https://time202051.github.io/baseCom.github.io/](https://time202051.github.io/baseCom.github.io/)
+
+无需联调的 CRUD 页面自动生成框架，通过交互式命令行和 VSCode 插件，几秒完成页面开发。
+
+**核心特性**:
+
+- **一键生成**: npx 脚本自动生成 API 接口和模块文件
+- **VSCode 插件**: 直接生成联调好的 Vue 页面，包含完整增删改查功能
+- **多级表头 & Swagger**: 支持多级表头、动态列显示隐藏、自动生成表头字段
+- **丰富组件**: 表格、表单、弹窗、搜索框等常用组件，API 友好
+
+**技术价值**: 几秒完成页面开发，减少重复代码，统一开发规范
 
 ---
+
+### VSCode 插件开发
+
+开发了 3 个 VSCode 插件提升开发效率：
+
+- **auto-columns**: 自动生成表格列配置
+- **copy encryption cracking**: 加密破解工具插件
+- **vue-page-generator**: Vue 页面生成器
+
+---
+
+### 脚本 + AI 全流程开发
+
+从页面开发、自测到 bug 排查，全程使用 AI 和脚本自动化，大幅提升开发效率。
 
 ## 工作经历
 
 ### 上海欧立德物流科技有限公司
 
-**前端开发工程师** | 2025.01 - 至今
+**前端开发工程师** | 2024.11 - 至今
 
-- 负责公司物流管理系统的前端开发与维护
-- 解决各种型号打印机的蓝牙和 IP 打印问题
+作为公司核心前端开发，负责物流管理系统及多个客户项目的开发与维护。
+
+**核心项目**:
+
+- **奥托立夫项目**: PC 端、PDA 移动端、大屏
+- **帕卡项目**: PC 端、PDA 移动端、大屏
+- **东瑞项目**: PC 端、PDA 移动端、大屏
+- **理想项目**: PC 端、PDA 移动端、大屏
+- **五丰项目**: PC 端、PDA 移动端、大屏
+- **中航项目**: PC 端、PDA 移动端、大屏
+- **中控项目**: PC 端、PDA 移动端、大屏
+- **公司内部大屏系统**
+
+**技术亮点**:
+
+- 使用自研 VSCode 插件、脚本和组件库，通过 Swagger 自动生成页面搜索框、表格、新增、编辑、删除、导出，实现基础页面的快速搭建
+- 解决团队其他前端开发遇到的技术难题，提供技术支持和最佳实践
+- 实现各种型号打印机（斑马ZPL、印立方LPAPI、芝柯CPCL等）的蓝牙和IP打印
 
 ---
 
@@ -142,6 +105,7 @@ Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结�
 **技术栈**: Vue3 + TypeScript + Pinia + Vue Router + Element Plus
 
 **核心成果**:
+
 - 作为核心开发人员，负责核心组件封装和技术层面的优化规范代码
 - 封装 mainTbl 和 mainForm 等组件，结合 useTable、useDialog 提升开发效率
 - 使常规表单页面从之前的六七百行缩减到两三百行
@@ -155,6 +119,7 @@ Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结�
 **技术栈**: Vue3 + TypeScript + Pinia + View Design + Cesium
 
 **核心成果**:
+
 - 从 0 到 1 独立开发的项目
 - 通过 customDataSource 实现多组广告牌，提升性能
 - 解决了之前项目实体过多导致的卡顿问题
@@ -168,6 +133,7 @@ Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结�
 **技术栈**: Vue3 + TypeScript + Pinia + Element Plus + Mars3D
 
 **核心成果**:
+
 - 独立开发，从 0 到 1 完成整个项目
 - 实现人员定位、轨迹、历史轨迹的丝滑移动
 
@@ -175,54 +141,28 @@ Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结�
 
 ### 江苏正泰泰杰赛智能科技有限公司
 
-**前端开发工程师** | 2020.05 - 2022.06
+**前端开发工程师** | 2019.09 - 2022.06
 
-**云组态升级成 Vue3**
+**云组态系统（Vue2 升级 Vue3）**
 
-这是一款低代码产品，公司核心自研项目，通过拖拽实现页面的搭建。
+公司核心自研的低代码平台，通过拖拽实现页面的搭建。
 
-**技术栈**: Vue3 + TypeScript + Pinia + Vue Router + Axios
+**技术栈**: Vue3 + TypeScript + Pinia + Vue Router + Axios + Element Plus
 
 **核心成果**:
-- 项目从 0 开始参与设计和编写
-- 通过自定义单例 hook 实现全局状态管理
-- 调研并重写切换主题，使用 HTML5 的 data-* 和 CSS 变量实现
-- 通过上传 zip 压缩包方式解决数据过大的问题
 
----
-
-### 南京呆萌猫网络科技有限公司
-
-**前端开发工程师** | 2019.09 - 2020.05
-
-**公司内部游戏数据库分析系统**
-
-一个后台管理界面，获取游戏 APP 用户操作记录，根据数据绘制 ECharts 图分析用户对 APP 的使用情况。
-
-**技术栈**: Vue2 + Vuex + Vue Router + Axios + vue-element-admin
-
----
-
-## 其他开源项目
-
-### element-plus-leaf
-
-**GitHub**: [https://github.com/time202051/element-plus-leaf](https://github.com/time202051/element-plus-leaf)
-
-Vue3 项目二次封装组件库，可以通过 `npm i element-plus-leaf` 使用二次封装的 ef-table、ef-form 组件。
-
-### paginationTable
-
-**GitHub**: [https://github.com/time202051/paginationTable](https://github.com/time202051/paginationTable)
-
-Vue2 项目二次封装的 table 和 form 组件，以及 paginationTable.js 实现分页接口。支持防抖、节流、轮询、loading、错误重试、自动请求/手动请求，并支持 onSuccess、onBefore、onError、onRes 等回调。
-
----
+- **从 0 开始参与设计和编写**: 负责项目从 Vue2 升级到 Vue3 的核心开发工作
+- **自定义单例 Hook 状态管理**: 组件数据过于庞大，通过自定义单例 hook 实现全局状态管理去管理画布上所有组件及数据，Pinia 保存一些不那么大但全局都会使用的数据和方法
+- **主题切换优化**: 调研并重写切换主题，将之前 Vue2 的行内样式去除，使用 HTML5 的 data-* 和 CSS 变量实现，先写两套黑白主题用到的所有数据，再在 CSS 样式中通过 var(--xxx) 使用
+- **ZIP 压缩上传**: 项目庞大导致上传接口的数据过大，通过上传 zip 压缩包方式解决。使用 jsZip 将本地 json 数据转成 blob 格式并通过 jsZip 塞入 zip 中，再 append 到 formData 中上传
+- **组件动态挂载**: 组件的挂载方式用 component 动态生成组件，并根据组件位置数据通过定位在画布上渲染，组件挂载四象限实现组件的拖拽缩放旋转等
+- **PSD 映射**: 任意一个 PSD，通过第三方解析 PSD 数据，并分析解析后的数据，根据位置属性名称属性等映射成项目中对应的组件（如矩形、文本等）
+- **VueUse 应用**: 项目中广泛使用 VueUse，例如 useFullscreen、onClickOutside、useMouse、useElementSize、useMouseInElement、usePointer、useVModel、useVModels 等
+- **数字拖拽**: 实现数字按住上下拖拽修改的需求，通过 VueUse 的 useMouse、usePointer 和 watch 监听鼠标按下和放开，在按下并拖拽的时候获取起始位置差通过计算并赋值
+- **Excel 导入导出**: 使用 file-saver/xlsx/script-loader 实现导入导出到 Excel
+- **自定义指令**: 封装自定义指令例如 v-width、v-height、v-color、v-bgColor、v-padding、v-margin 等等指令
+- **CSS 工具类**: 通过 less 的 each 循环实现自定义 CSS 类名如 m10、b10、w100 等等
 
 ## 个人评价
 
 为人正直，做事认真。喜欢研究新技术，学习新技术上手能力强，在职过的公司都对我为人和技术表示肯定。
-
-持续学习 Vue 源码、VueUse 源码、Element Plus 源码，热衷于技术研究，擅长组件封装、性能优化和工程化建设。
-
-通过开发企业级开发框架、VSCode 插件、自动化脚本等方式，不断提升开发效率，追求技术卓越。

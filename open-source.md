@@ -8,7 +8,9 @@
 
 ### 项目简介
 
-无需联调的 CRUD 页面基于 Element-UI 的企业级开发框架。交互式命令行方式自动生成完整页面，无需手动联调，几秒完成页面。
+无需联调的 CRUD 页面基于 Element-UI 的企业级组件库。交互式命令行方式自动生成完整页面，无需手动联调，几秒完成页面。
+
+![ol-base-components](/assets/olbaseComponentsGw.png)
 
 ### 核心特性
 
@@ -22,29 +24,27 @@
 ### 使用方式
 
 ```bash
-# 使用 npx 脚本生成
-npx ol-base-components
-
-# 或安装 VSCode 插件直接生成
+npm install ol-base-components
 ```
 
 ---
 
 ## VSCode 插件
 
-### 1. auto-columns
+### 1. vue-page-generator
+
+Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结构，加速项目开发。
+![vue-page-generator](/assets/vue-page-generator.png)
+
+### 2. auto-columns
 
 自动生成表格列配置，根据数据结构智能生成列定义，减少手动编写列配置的工作量。
 
-### 2. copy encryption cracking
+![auto-columns](/assets/autoColumns.png)
 
-加密破解工具插件，快速解密和加密数据，提升开发调试效率。
+### 3. copy encryption cracking
 
-### 3. vue-page-generator
-
-Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结构，加速项目开发。
-
----
+密破禁止复制的工具插件。
 
 ## element-plus-leaf
 
@@ -61,24 +61,11 @@ Vue3 项目二次封装组件库，可以通过 `npm i element-plus-leaf` 使用
 - **开箱即用**: 继承所有 Element Plus 的属性和方法
 - **类型安全**: 完整的 TypeScript 类型支持
 
-### 使用方式
-
-```bash
-npm install element-plus-leaf
-```
-
-```vue
-<template>
-  <ef-table :columns="columns" :data="data" />
-  <ef-form :items="formItems" v-model="formData" />
-</template>
-```
-
 ---
 
 ## paginationTable
 
-**GitHub**: [https://github.com/time202051/paginationTable](https://github.com/time202051/paginationTable)
+**GitHub**: [https://github.com/time202051/paginationTable/tree/master](https://github.com/time202051/paginationTable/tree/master)
 
 ### 项目简介
 
@@ -91,56 +78,4 @@ Vue2 项目二次封装的 table 和 form 组件，以及 paginationTable.js 实
 - **Mock 数据**: 提供 mockRes 方便后端暂未开发完接口时候的假数据开发
 - **组件封装**: 二次封装 table 和 form 组件，提升开发效率
 
-### 使用方式
-
-```bash
-npm install pagination-table
-```
-
-```javascript
-import { PaginationTable } from 'pagination-table'
-
-const table = new PaginationTable({
-  url: '/api/list',
-  onSuccess: (res) => {
-    console.log('请求成功', res)
-  },
-  onError: (err) => {
-    console.error('请求失败', err)
-  }
-})
-
-table.fetch()
-```
-
 ---
-
-## 技术亮点
-
-### 1. 组件封装思想
-
-- 继承原组件所有属性和方法
-- 提供更简洁的 API
-- 减少重复代码，提升开发效率
-
-### 2. 性能优化
-
-- 防抖节流处理
-- 错误重试机制
-- Loading 状态管理
-
-### 3. 开发体验
-
-- TypeScript 类型支持
-- 完善的文档
-- 丰富的示例代码
-
----
-
-## 贡献指南
-
-欢迎提交 Issue 和 Pull Request，一起完善这些项目。
-
-## Star History
-
-如果这些项目对你有帮助，欢迎给个 Star ⭐️
